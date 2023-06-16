@@ -1,4 +1,4 @@
-class Pgrouting_macos < Formula
+class Pgrouting < Formula
   desc "Provides geospatial routing for PostGIS/PostgreSQL database"
   homepage "https://pgrouting.org/"
   url "https://github.com/pgRouting/pgrouting/releases/download/v3.5.0/pgrouting-3.5.0.tar.gz"
